@@ -1,33 +1,33 @@
 /////////////////////////////
-/*class:evennumber
- *Input:15
- *Output:Even number: 2
+/*class: evennumber
+ *Input:--
+ *Output:Even number: 0
+         Even number: 2
          Even number: 4
          Even number: 6
-         Even number: 8
-         Even number: 10
-         Even number: 12
-         Even number: 14
- *Description:Display the Even numbers
- *Date:8-June-2021
+         Sum of even numbers is: 12
+ *Description:Display the n even numbers
+ *Date:30-July-2021
  *Author Name:Shruti Nahar
- */
-import java.util.Scanner;
+ *///////////////////////////////
+package practiceset4;
+
 public class evennumber {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		Scanner sc=new Scanner(System.in);
-		int n;
-		System.out.println("enter the no ");
-		n=sc.nextInt();
-		for(int i=2;i<=n;i++)
-		{
-			if(i%2==0)
-			{
-				System.out.println("Even number: "+i);
-			}
-		}
+
+
+		        // Practice Problem 2
+		        int sum=0;
+		        int n=4;
+		        for(int i=0;i<n;i++){
+		        	
+		        	System.out.println("Even number: "+(2*i));
+		            sum = sum + (2*i);
+		        }
+		        System.out.print("Sum of even numbers is: ");
+		        System.out.println(sum);
+		        // First 4 even numbers are - 0 2 4 6
 
 	}
 
