@@ -1,3 +1,15 @@
+/////////////////////////////
+/*class:starpattern
+ *Input:--
+ *Output:
+ *   
+ *  *  
+ *  *  *  *
+ *  *  *  *  *
+ *Description:Printing of star pattern using rescursion
+ *Date:31-July-2021
+ *Author Name:Shruti Nahar
+ *///////////////////////////////
 package practiceset4;
 
 public class starrecursion {
