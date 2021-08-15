@@ -1,3 +1,12 @@
+/////////////////////////////
+/*class:game
+*Input:Enter 0 for Rock, 1 for Paper, 2 for Scissor 0
+*Output: Draw
+         Computer choice: Rock
+*Description:Implementation of rock scissor paper game
+*Date:15-08-2021
+*Author Name:Shruti Nahar
+*///////////////////////////////////
 import java.util.Random;
 import java.util.Scanner;
 
