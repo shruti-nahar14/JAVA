@@ -1,4 +1,15 @@
 
+/////////////////////////////
+/*class: class SmartTelephone extends Telephone
+*Input:--
+*Output:Lifting!!!!!!
+        Ringing!!!!!!
+        Disconnecting...
+        non abstract method
+*Description:Implementation of abstract class
+*Date:17-08-2021
+*Author Name:Shruti Nahar
+*///////////////////////////////
 public class SmartTelephone extends Telephone {
 	  @Override
 	void ring() {
