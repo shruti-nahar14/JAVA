@@ -18,7 +18,6 @@ Elements of 2d array are
 2
 
 9 7
-Account Bal: 50000
 *Description:Implementation of 2-D Array
 *Date:19-08-2021
 *Author Name:Shruti Nahar
