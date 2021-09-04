@@ -5,7 +5,7 @@
 *Description:Implementation of add methods in Array list class
 *Date:13-08-2021
 *Author Name:Shruti Nahar
-*///////////////////////////////////
+*///////////////////////////// //////
 import java.util.*;
 public class Add_method {
 
