@@ -1,4 +1,31 @@
+/////////////////////////////
+/*class:MyThreadRunnable1 implements Runnable
+ *Input:--
+ *Output:I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 1 not a threat 1
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
+I am a thread 2 not reat 2
 
+ *Description:Implementation of thread using runnable interface
+ *Date:14-09-2021
+ *Author Name:Shruti Nahar
+ *//////////////////////////////
 
 class MyThreadRunnable1 implements Runnable{
     public void run(){
