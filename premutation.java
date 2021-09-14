@@ -1,3 +1,15 @@
+/////////////////////////////
+/*class:premutation
+ *Input:String str1 = "prepbytes";
+	   String str2 = "bytesprep";
+	   String str3="jgec";
+	   String str4="cgec";
+ *Output:Yes
+         No
+ *Description:Check the permutation of strings
+ *Date:14-09-2021
+ *Author Name:Shruti Nahar
+ *//////////////////////////////
 package premutationofstring;
 
 //Java program to check whether two strings are
