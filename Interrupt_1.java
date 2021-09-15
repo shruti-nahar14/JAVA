@@ -1,3 +1,13 @@
+///////////////////////////////////////////////////////
+/*Input:--
+//Output:Main Thread
+Child Thread
+Child Thread Interrupted
+Thread is running
+//Description:Interrupt method in thread with Exceptions
+//Date:15-09-2021
+//Author: Shruti Nahar*/
+//////////////////////////////////////////////////////
 class CWH1 extends Thread{
     public void run(){
         try {
