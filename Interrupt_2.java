@@ -1,3 +1,20 @@
+////////////////////////////////////////////////////////
+/*Input:--
+//Output:Main Thread
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+//Description:Interrupt method in thread without Exceptions
+//Date:15-09-2021
+//Author: Shruti Nahar*/
+///////////////////////////////////////////////////////
 class CWH2 extends Thread{
     public void run(){
         for (int i=0;i<10;++i){
