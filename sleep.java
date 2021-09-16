@@ -22,7 +22,7 @@ Thank you:
 Thank you: 
 //Description:sleep method in thread 
 //Date:16-09-2021
-//Author: Shubham lodha*/
+//Author: Shruti Nahar*/
 //////////////////////////////////////////////////////
 
 class MyNewThr1 extends Thread{
