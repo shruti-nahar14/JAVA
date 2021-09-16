@@ -1,5 +1,62 @@
 
 
+/////////////////////////////
+/*Input:--
+ *Output:Thank you: Harry1
+Thank you: Harry5 (most Important)
+Thank you: Harry4
+Thank you: Harry2
+Thank you: Harry2
+Thank you: Harry2
+Thank you: Harry2
+Thank you: Harry3
+Thank you: Harry2
+Thank you: Harry4
+Thank you: Harry5 (most Important)
+Thank you: Harry1
+Thank you: Harry5 (most Important)
+Thank you: Harry4
+Thank you: Harry3
+Thank you: Harry2
+Thank you: Harry3
+Thank you: Harry4
+Thank you: Harry5 (most Important)
+Thank you: Harry1
+Thank you: Harry5 (most Important)
+Thank you: Harry4
+Thank you: Harry3
+Thank you: Harry2
+Thank you: Harry3
+Thank you: Harry4
+Thank you: Harry5 (most Important)
+Thank you: Harry1
+Thank you: Harry5 (most Important)
+Thank you: Harry4
+Thank you: Harry3
+Thank you: Harry2
+Thank you: Harry3
+Thank you: Harry4
+Thank you: Harry3
+Thank you: Harry5 (most Important)
+Thank you: Harry1
+Thank you: Harry5 (most Important)
+Thank you: Harry3
+Thank you: Harry4
+Thank you: Harry2
+Thank you: Harry4
+Thank you: Harry3
+Thank you: Harry5 (most Important)
+Thank you: Harry1
+Thank you: Harry2
+Thank you: Harry1
+Thank you: Harry1
+Thank you: Harry1
+Thank you: Harry1
+
+ *Description:Implementation of priorities in thread
+ *Date:16-09-2021
+ *Author Name:Shruti Nahar
+ *//////////////////////////////
 class MyThr1 extends Thread{
     public MyThr1(String name){
         super(name);
