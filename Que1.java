@@ -1,6 +1,32 @@
-/*Write a program to print "Good morning" and "Welcome" 
- * continuously on the screen in Java using threads.*/
 
+
+/////////////////////////////
+/*Input:--
+ *Output:
+ *Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Welcome
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+Good morning
+ *Description:Write a program to print "Good morning" and "Welcome" continuously on the screen in Java using threads.
+ *Date:17-09-2021
+ *Author Name:Shruti Nahar
+ *//////////////////////////////
 class Thread1 extends Thread{
     public void run(){
         while (true){
