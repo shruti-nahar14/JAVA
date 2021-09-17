@@ -1,5 +1,13 @@
 /*Add a step method in the welcome thread of question 1 to delay its execution for 200ms.*/
-
+/////////////////////////////
+/*Input:--
+ *Output:
+ Good morning
+ Welcome
+ *Description:Implementation of delay for 200ms 
+ *Date:17-09-2021
+ *Author Name:Shruti Nahar
+ *//////////////////////////////
 class Thread3 extends Thread{
     public void run(){
         try {
